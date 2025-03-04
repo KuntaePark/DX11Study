@@ -1,0 +1,4 @@
+﻿  applicationclass.cpp
+C:\sandbox\directx\DXPracticeProject\DXtutChap07\source\applicationclass.cpp(157,98): warning C4101: 'srMatrix': unreferenced local variable
+C:\sandbox\directx\DXPracticeProject\DXtutChap07\source\applicationclass.cpp(157,54): warning C4101: 'scaleMatrix': unreferenced local variable
+  DXtutChap07.vcxproj -> C:\sandbox\directx\DXPracticeProject\x64\Debug\DXtutChap07.exe
